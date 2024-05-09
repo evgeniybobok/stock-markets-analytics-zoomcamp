@@ -1,3 +1,7 @@
 jupyter
 pandas_datareader
 yfinance
+plotly
+matplotlib
+ta-lib
+pyarrow
